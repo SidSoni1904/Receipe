@@ -1,0 +1,38 @@
+.mycards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 5px;
+    /* align-items: center; */
+    /* float: right; */
+    /* flex-direction:row-reverse; */
+}
+
+.mycards div{
+    margin-top: 5px;
+}
+
+.card-img{
+    height: 300px;
+    width: 300px;
+}
+
+#cards{
+    background-color: transparent;
+}
+/* modal css */
+
+.modal  {
+    background-color: transparent;
+}
+
+*[data-theme="light"]{
+  color: #252525;
+  background-color: white;
+  
+}
+
+*[data-theme="dark"] {
+  color: white;
+  background-color: #252525;
+} 

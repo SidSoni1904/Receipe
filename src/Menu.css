@@ -1,0 +1,13 @@
+.mybtns button{
+   border: none;
+    border-radius: 6%;
+    background-color: brown;
+    color: azure;
+}
+
+.modalbody{
+    background-color: transparent;
+    color: brown;
+    font-weight: bolder;
+}
+
