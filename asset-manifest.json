@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Receipe/static/css/main.773dc800.css",
+    "main.js": "/Receipe/static/js/main.1255b8f9.js",
+    "static/media/logoo.png": "/Receipe/static/media/logoo.fb52c6e668e02f5c67de.png",
+    "index.html": "/Receipe/index.html",
+    "main.773dc800.css.map": "/Receipe/static/css/main.773dc800.css.map",
+    "main.1255b8f9.js.map": "/Receipe/static/js/main.1255b8f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.773dc800.css",
+    "static/js/main.1255b8f9.js"
+  ]
+}
