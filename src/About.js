@@ -20,7 +20,7 @@ function hello() {
           }}
         >
           <h1>CHEF'S PLACE 👨‍🍳</h1>
-          <p>Find Your Favourite Dish Receipe ....</p>
+          <p>Find Your Favourite Dish Recipe ....</p>
           <p></p>
           <br></br>
           <div style={{ fontSize: "20px"}}>
