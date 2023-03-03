@@ -14,7 +14,7 @@ function App() {
     <>
       <Navbars />
       <Routes>
-        <Route path="/Receipe" element={<Body />} />
+        <Route path="/" element={<Body />} />
         <Route path="/about" element={<About />} />
         {/* start nested routing */}
         <Route path="/menu" element={<Menu />}>
